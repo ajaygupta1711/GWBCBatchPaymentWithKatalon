@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BC_RunPostSurePathBatch Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cfb07ff-1294-44b4-a5f4-5f17a0f0e010</testCaseGuid>
+</TestCaseEntity>
